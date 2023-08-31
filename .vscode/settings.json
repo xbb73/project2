@@ -3,6 +3,7 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Users\\xavier\\Desktop\\atcs\\GridWorldCode\\gridworld.jar"
+        "c:\\Users\\xavier\\Desktop\\atcs\\GridWorldCode\\gridworld.jar",
+        "c:\\Users\\clewr\\Downloads\\BPC01\\lib\\gridworld.jar"
     ]
 }
